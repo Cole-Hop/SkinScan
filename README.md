@@ -1,0 +1,2 @@
+# SkinScan
+My Capstone Project
